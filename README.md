@@ -10,7 +10,3 @@ You must have jQuery-ui installed and included for this to work.
 
 Provide your link list data to TinyMCE in the standard way in config.
 
-These changes were made by Rod McNew. Rod Mcnew's changes to this file are
-free for anyone to use for anything they want. Please check the licensing
-details on the original tiny-mce file as well.
-
