@@ -1,4 +1,4 @@
-TinyMCE Link With Jquery Autocomplete
+TinyMCE Link Plugin with jQuery Autocomplete
 =================================
 
 This is a hacked copy of the tinyMCE link plugin. The "Link List" select box
